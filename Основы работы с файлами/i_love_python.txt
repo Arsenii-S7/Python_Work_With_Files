@@ -1,0 +1,6 @@
+Hello, world!
+This is my first file.
+Python is fun.
+
+Привет, мир!
+Это моя первая программа.

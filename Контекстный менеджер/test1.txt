@@ -1,0 +1,6 @@
+cat
+elephant
+hello
+world!
+abcdefgh
+short

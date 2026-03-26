@@ -1,0 +1,3 @@
+Hi, I can't access my account.
+Did you recently change your password?
+I think I forgot it again.

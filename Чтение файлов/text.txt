@@ -1,0 +1,10 @@
+Python is an amazing language created by Guido van Rossum.
+Many developers love Python because it is simple and powerful.
+Did you know that the word rotator is a palindrome?
+Level is also a palindrome if you ignore the case.
+Python helps to build apps, websites, and even AI.
+There are many libraries like pandas, requests, and numpy.
+The phrase "Race car" is another example of a palindrome.
+Python is great for data science and automation.
+One more palindrome word is madam.
+Happy coding with Python!
